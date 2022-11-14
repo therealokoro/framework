@@ -30,7 +30,7 @@
     "clipboardy": "^3.0.0",
     "colorette": "^2.0.19",
     "consola": "^2.15.3",
-    "deep-object-diff": "^1.1.7",
+    "deep-object-diff": "^1.1.9",
     "destr": "^1.2.0",
     "execa": "^6.1.0",
     "flat": "^5.0.2",
